@@ -25,6 +25,10 @@ img {
   background: #eee;
 }
 
+body {
+  text-align: center;
+}
+
 .fruits-container {
   display: flex;
   justify-content: center;
