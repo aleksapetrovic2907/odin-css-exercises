@@ -36,14 +36,16 @@ a {
   text-decoration-line: none;
 }
 
-.header {
+.header,
+.footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 12px 24px;
 }
 
-.header ul {
+.left-links,
+.right-links {
   display: flex;
   justify-content: space-around;
   gap: 12px;
