@@ -79,3 +79,9 @@ button.cancel {
   display: flex;
   flex-direction: column;
 }
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
