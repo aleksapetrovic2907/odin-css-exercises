@@ -64,3 +64,7 @@ a {
   justify-content: center;
   gap: 18px;
 }
+
+.footer {
+  background-color: #eee;
+}
