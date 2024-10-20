@@ -76,6 +76,10 @@ button.cancel {
   gap: 12px;
 }
 
+.left-container {
+  flex-shrink: 0;
+}
+
 .right-container {
   display: flex;
   flex-direction: column;
