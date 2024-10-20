@@ -29,6 +29,10 @@ body {
   text-align: center;
 }
 
+.title {
+  margin-bottom: 32px;
+}
+
 .fruits-container {
   display: flex;
   justify-content: center;
