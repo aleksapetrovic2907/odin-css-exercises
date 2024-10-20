@@ -50,6 +50,7 @@ ul {
 .header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   padding: 8px 24px;
 }
 
@@ -59,5 +60,6 @@ ul {
 .links {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 4px;
 }
