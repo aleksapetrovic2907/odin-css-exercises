@@ -51,3 +51,11 @@ ul {
   display: flex;
   justify-content: space-between;
 }
+
+
+.left-links,
+.right-links,
+.links {
+  display: flex;
+  justify-content: center;
+}
