@@ -27,4 +27,19 @@ a {
 .header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+
+.left-links ul,
+.right-links ul {
+  display: flex;
+  gap: 8px;
+}
+
+.left-links ul {
+  justify-content: flex-start;
+}
+
+.right-links ul {
+  justify-content: flex-end;
 }
