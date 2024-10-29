@@ -46,3 +46,8 @@ html {
   color: white;
   text-align: left;
 }
+
+/* Solution */
+.container {
+  display: grid;
+}
