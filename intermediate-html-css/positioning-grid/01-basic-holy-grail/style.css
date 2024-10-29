@@ -67,6 +67,10 @@ html {
   grid-area: 2 / 2 / 2 / -1;
 }
 
+.article {
+  grid-area: 3 / 2 / -2 / -1;
+}
+
 .footer {
   grid-area: -1 / 1 / -1 / -1;
 }
