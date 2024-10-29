@@ -61,3 +61,7 @@ html {
 .sidebar {
   grid-area: 2 / 1 / -2 / 2;
 }
+
+.footer {
+  grid-area: -1 / 1 / -1 / -1;
+}
