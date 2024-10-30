@@ -111,3 +111,7 @@
 .menu ul li {
   list-style: none;
 }
+
+.sidebar {
+  grid-row: 2 / 4;
+}
