@@ -89,3 +89,10 @@
   font-size: 13px;
   font-weight: normal;
 }
+
+/* Solution */
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
