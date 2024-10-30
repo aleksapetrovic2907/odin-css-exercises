@@ -114,4 +114,6 @@
 
 .sidebar {
   grid-row: 2 / 4;
+  display: grid;
+  gap: 50px;
 }
