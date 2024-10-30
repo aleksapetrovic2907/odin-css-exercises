@@ -136,3 +136,7 @@
 .article > .card {
   height: 200px;
 }
+
+.footer {
+  grid-column: 1 / -1;
+}
