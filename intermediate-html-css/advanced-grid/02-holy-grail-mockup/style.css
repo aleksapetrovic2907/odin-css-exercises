@@ -126,3 +126,9 @@
 .nav ul li {
   list-style: none;
 }
+
+.article {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+}
