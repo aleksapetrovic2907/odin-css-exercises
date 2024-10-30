@@ -117,3 +117,8 @@
   display: grid;
   gap: 50px;
 }
+
+.nav ul {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
