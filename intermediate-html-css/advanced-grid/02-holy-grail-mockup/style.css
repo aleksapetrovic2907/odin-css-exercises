@@ -102,3 +102,8 @@
   display: grid;
   grid-template-columns: 1fr 2fr;
 }
+
+.menu ul {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
